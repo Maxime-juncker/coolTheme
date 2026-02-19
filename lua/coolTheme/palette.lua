@@ -24,7 +24,7 @@ M.colors = {
 	pink =		"#DD78BB",
 	
 	-- UI
-	comment   = "#689D6A",
+	comment   = "#626670",
 	selection = "#45475a",
 	border    = "#585b70",
 	error     = "#E06C75",
